@@ -5,7 +5,7 @@ Simple tool that takes shorthand teaching notes and expands them with modular pr
 ## Supports
 
 - [[module_name]] for modular explanations stored in module folder
-- Lilypond block code to image using ```l [...] l```
+- Lilypond block code to image using ` ``l [...] l`` `
 - Export // comments to separate file
 
 ## How to install
